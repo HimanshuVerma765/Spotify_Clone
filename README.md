@@ -13,7 +13,8 @@ A web application that replicates the layout of Spotify using HTML and CSS.
 
 ## 📸 Screenshot  
 
-![image](https://github.com/user-attachments/assets/a4740b07-9897-48ad-97b8-61e29665bc8b)
+![image](https://github.com/user-attachments/assets/9fb9e262-1bed-4ac2-916b-b0bd3789aea0)
+
 
 
 ---
